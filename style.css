@@ -1,0 +1,14 @@
+div {
+   margin: 10px 0;
+}
+
+.out1, .out31, .out32, .out33 {
+   width: 50px;
+   height: 50px;
+   border: 1px solid black;
+}
+
+.out2 {
+   width: 64px;
+   height: 64px;
+}
